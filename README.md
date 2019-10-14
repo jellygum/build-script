@@ -1,4 +1,4 @@
 # build-script
 
-Open-Source Build script
+Open-Source build-script
 
